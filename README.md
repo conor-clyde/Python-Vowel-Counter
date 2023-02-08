@@ -1,5 +1,5 @@
 # Python-Vowel-Counter
-Vowel counter program written in Python that I submitted as an assignment for my Cisco Python Programming course.
+Vowel counter program written in Python that I submitted as an assignment for my [Python Programming course](https://www.futurelearn.com/microcredentials/cisco-python-programming).
 
 ## Input
 A .txt file (Jabberwocky.txt) is stored in the same directory as the Python code file
