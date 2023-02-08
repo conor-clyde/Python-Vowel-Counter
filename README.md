@@ -6,5 +6,5 @@ A .txt file (Jabberwocky.txt) is stored in this repository in the same directory
 <br>The Python code takes this .txt file as input, reading in and storing its contents for processing.
 
 ## Result
-The ouput is shown below:<br>
-<img src="https://user-images.githubusercontent.com/91070226/217407015-62fe1780-5d47-4759-8e30-cf450f07d588.png" width="60%">
+The ouput is shown below:<br><br>
+<img src="https://user-images.githubusercontent.com/91070226/217407015-62fe1780-5d47-4759-8e30-cf450f07d588.png" width="65%">
